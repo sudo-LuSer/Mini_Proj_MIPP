@@ -9,5 +9,5 @@ add_executable(Mat_op
 )
 
 target_include_directories(Mat_op PRIVATE 
-    /mnt/c/Users/Nasr-allah/Desktop/Mini_Proj_MIPP/MIPP/include
+    /mnt/c/Users/Nasr-allah/Desktop/Mini_Proj_MIPP/include/MIPP/include
 )
